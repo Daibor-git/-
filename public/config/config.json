@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3693985ED94e64C36f0d7F716695FCc06f3a2118",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3693985ed94e64c36f0d7f716695fcc06f3a2118",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Teens Night Club",
+  "SYMBOL": "CTNC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-teens-night-club",
+  "SHOW_BACKGROUND": true
+}
